@@ -1,11 +1,7 @@
-Servidor :   http://gemmacifp.ddns.net/create
+Servidor :   http://gemmacifp.ddns.net
 Para comprobar la base de datos: http://gemmacifp.ddns.net/phpmyadmin
     Usuario: homestead
     Contraseña: secret
-
-
-
-
 
 
 
